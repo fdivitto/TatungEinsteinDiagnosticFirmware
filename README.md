@@ -15,4 +15,9 @@ Currently it tests for:
      
 
 
-![alt text](https://raw.githubusercontent.com/fdivitto/TatungEinsteinDiagnosticFirmware/branch/path/to/img.png)
+### Example of all tests passed:
+![GitHub Logo](/images/img1.png)
+
+
+### Example of PSG (Sound Generator and Keyboard controller) not passed:
+![GitHub Logo](/images/img2.png)
