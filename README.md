@@ -2,7 +2,7 @@
 Diagnostic ROM for the Tatung Einstein TC-01
 
 
-Burn this firmware on a 2764 EPROM and place it in the free slot next to the original firmware.
+Burn this firmware (rom.bin) on a 2764 EPROM and place it in the free slot next to the original firmware.
 
 Currently it tests for:
   * 64K dynamic RAMs (8x4164)
