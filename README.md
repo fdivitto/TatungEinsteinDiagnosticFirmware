@@ -1,4 +1,4 @@
-# TatungEinsteinDiagnosticFirmware
+# Tatung Einstein Diagnostic Firmware
 Diagnostic ROM for the Tatung Einstein TC-01
 
 
